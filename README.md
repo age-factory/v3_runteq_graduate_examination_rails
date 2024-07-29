@@ -46,6 +46,5 @@ https://drugshortage.jp/
 一般的なCRUD以外の実装予定の機能についてそれぞれどのようなイメージ(使用するAPIや)で実装する予定なのか現状考えているもので良いので教えて下さい。
 マルチ検索・オートコンプリート
 
-■　画面遷移図（課題２です）
+■ 画面遷移図
 https://www.figma.com/design/1vpHDBQSx6ViDcm8ZAWXYM/%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C?node-id=6-15&t=FChgtyMosPRm1IqC-1
-
